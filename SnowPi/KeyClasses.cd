@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SnowPi.Models.Snowman">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAACAAABCAACAAAAAAABAAgGAABAQAAIQAAAAA=</HashCode>
+      <FileName>Models\Snowman.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowPi.Models.SnowPiLightShowRecording">
+    <Position X="2.25" Y="1.25" Width="3" />
+    <NestedTypes>
+      <Class Name="SnowPi.Models.SnowPiLightShowRecording.PcQueue" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\SnowPiLightShowRecording.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAQAAQAEgAAQAAAAAAAAQAAQAgAAAACAAQ=</HashCode>
+      <FileName>Models\SnowPiLightShowRecording.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnowPi.Services.SnowPiGPIOControllerService">
+    <Position X="8" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Services\SnowPiGPIOControllerService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SnowPi.LightShows.BodyParts" Collapsed="true">
+    <Position X="11" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LightShows\BodyParts.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SnowPi.LightShows.TestLightShow" Collapsed="true">
+    <Position X="12.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LightShows\TestLightShow.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SnowPi.ViewModels.MainPageViewModel">
+    <Position X="8" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBAAAAAAAAAIAAIAAAQAAAAAAgABAAAAAIAAAAQ=</HashCode>
+      <FileName>ViewModels\MainPageViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SnowPi.Models.Led">
+    <Position X="11" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAgAAAQAAAEAIEAIAAAAAFBQAAAAiCEAkAAIA=</HashCode>
+      <FileName>Models\Led.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
